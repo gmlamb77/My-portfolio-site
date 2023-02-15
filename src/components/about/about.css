@@ -1,0 +1,10 @@
+.about-MainWrapper {
+    display: block;
+    width: 100%;
+    align-items: center;
+}
+
+.about-InfoWrapper {
+    width: 75%;
+    height: 50vh;
+}
